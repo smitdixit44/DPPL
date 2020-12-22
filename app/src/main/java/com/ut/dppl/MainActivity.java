@@ -15,7 +15,7 @@ import android.widget.Toast;
 
 import java.net.URL;
 
-public class    MainActivity extends AppCompatActivity {
+public class MainActivity extends AppCompatActivity {
     EditText Username;
     EditText Password;
     Button button,button1,button2;
