@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+
+    <resources>
+
+    <string name="app_name">My Application</string>
+
+    <string name="button">LOGIN</string>
+
+    <string name="button1">REGISTER</string>
+
+    <string name="button2">Customer Feedback</string>
+
+    <string name="button3">Submit</string>
+
+    <string name="ContentDescription">TODO</string>
+
+    <string name="edittext">Username</string>
+
+    <string name="edittext1">password</string>
+
+    <string name="edittext2">Confirm password</string>
+
+    <string name="edittext3">Write a Review</string>
+
+    <string name="edittext4">showRating</string>
+
+    <string name="textview">Rating Bar</string>
+
+    <string name="textview1">rateCount</string>
+
+</resources>
